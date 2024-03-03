@@ -7,5 +7,6 @@ public class aaa {
         System.out.println("hello hot-fix");
         System.out.println("hot-fix second commit");
         System.out.println("master 16:12");
+        System.out.println("master 16:22");
     }
 }
