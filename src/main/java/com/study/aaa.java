@@ -9,5 +9,10 @@ public class aaa {
         System.out.println("master 16:12");
         System.out.println("master 16:22");
         System.out.println("master 16:23");
+        System.out.println("hot-fix 16:20");
+        System.out.println("hot-fix 16:20");
+        System.out.println("hot-fix 16:21");
+        System.out.println("hot-fix 16:21");
+        System.out.println("merge success");
     }
 }
