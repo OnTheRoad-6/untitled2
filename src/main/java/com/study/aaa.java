@@ -5,5 +5,6 @@ public class aaa {
         System.out.println("hello word");
         System.out.println("hello word2");
         System.out.println("hello hot-fix");
+        System.out.println("hot-fix second commit");
     }
 }
