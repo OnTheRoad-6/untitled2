@@ -16,5 +16,6 @@ public class aaa {
         System.out.println("merge success");
         System.out.println("gitHub提交");
         System.out.println("gitHub提交2");
+        System.out.println("gitHub提交3");
     }
 }
