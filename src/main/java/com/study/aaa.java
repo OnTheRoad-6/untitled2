@@ -15,5 +15,6 @@ public class aaa {
         System.out.println("hot-fix 16:21");
         System.out.println("merge success");
         System.out.println("gitHub提交");
+        System.out.println("gitHub提交2");
     }
 }
